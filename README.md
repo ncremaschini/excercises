@@ -1,1 +1,1 @@
-TBD
+Some old fashion Java exercises
